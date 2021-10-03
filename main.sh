@@ -9,7 +9,7 @@ git clone --depth 1 https://github.com/kiddin9/openwrt-bypass && mvdir openwrt-b
 # git clone --depth 1 https://github.com/kiddin9/aria2
 # git clone --depth 1 https://github.com/kiddin9/luci-app-eqos
 # git clone --depth 1 https://github.com/kiddin9/luci-app-baidupcs-web
-git clone --depth 1 https://github.com/kiddin9/luci-theme-edge
+
 # git clone --depth 1 https://github.com/kiddin9/qBittorrent-Enhanced-Edition
 # git clone --depth 1 https://github.com/kiddin9/autoshare && mvdir autoshare
 git clone --depth 1 https://github.com/kiddin9/openwrt-openvpn && mvdir openwrt-openvpn
@@ -22,7 +22,7 @@ git clone --depth 1 https://github.com/rufengsuixing/luci-app-autoipsetadder
 git clone --depth 1 https://github.com/NateLol/luci-app-beardropper
 # git clone --depth 1 https://github.com/riverscn/openwrt-iptvhelper && mvdir openwrt-iptvhelper
 git clone --depth 1 https://github.com/project-lede/luci-app-godproxy
-git clone --depth 1 https://github.com/BoringCat/luci-app-minieap
+# git clone --depth 1 https://github.com/BoringCat/luci-app-minieap
 # git clone --depth 1 https://github.com/rufengsuixing/luci-app-onliner
 # git clone --depth 1 https://github.com/tty228/luci-app-serverchan
 # git clone --depth 1 https://github.com/4IceG/luci-app-sms-tool smstool && mvdir smstool
@@ -36,11 +36,11 @@ git clone --depth 1 https://github.com/shanglanxin/luci-app-homebridge
 # git clone --depth 1 https://github.com/jerrykuku/luci-theme-argon
 git clone --depth 1 https://github.com/jerrykuku/luci-app-argon-config
 git clone --depth 1 https://github.com/jerrykuku/luci-app-vssr
-git clone --depth 1 https://github.com/jerrykuku/luci-app-ttnode
-git clone --depth 1 https://github.com/jefferymvp/luci-app-koolproxyR
-git clone --depth 1 https://github.com/peter-tank/luci-app-dnscrypt-proxy2
+# git clone --depth 1 https://github.com/jerrykuku/luci-app-ttnode
+# git clone --depth 1 https://github.com/jefferymvp/luci-app-koolproxyR
+# git clone --depth 1 https://github.com/peter-tank/luci-app-dnscrypt-proxy2
 # git clone --depth 1 https://github.com/sirpdboy/luci-app-advanced
-git clone --depth 1 https://github.com/sirpdboy/luci-app-netdata
+# git clone --depth 1 https://github.com/sirpdboy/luci-app-netdata
 git clone --depth 1 https://github.com/sirpdboy/luci-app-poweroffdevice
 git clone --depth 1 https://github.com/sirpdboy/luci-app-autotimeset
 # git clone --depth 1 https://github.com/wolandmaster/luci-app-rtorrent
@@ -85,11 +85,12 @@ svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/redsocks2
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/tcpping
 svn co https://github.com/liuran001/openwrt-theme/trunk/luci-theme-argon-lr
 svn co https://github.com/openwrt/packages/trunk/net/shadowsocks-libev
-svn co https://github.com/immortalwrt/luci/trunk/applications/luci-app-aliddns
+# svn co https://github.com/immortalwrt/luci/trunk/applications/luci-app-aliddns
 # svn co https://github.com/Lienol/openwrt/trunk/package/diy/luci-app-adguardhome
 # svn co https://github.com/kenzok8/jell/trunk/adguardhome
 # svn co https://github.com/immortalwrt/luci/trunk/applications/luci-app-smartdns
 # svn co https://github.com/immortalwrt/packages/trunk/net/smartdns
+git clone --depth 1 https://github.com/kiddin9/luci-theme-edge
 svn co https://github.com/kenzok8/litte/trunk/luci-theme-argon_new
 svn co https://github.com/kenzok8/litte/trunk/luci-theme-opentopd_new
 svn co https://github.com/kenzok8/litte/trunk/luci-theme-atmaterial_new

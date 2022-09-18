@@ -6,8 +6,8 @@ on:
     paths:
       - '.github/workflows/thanf.yml'
       - 'diy/**'
-  schedule:
-    - cron: 30 19 * * *
+  #schedule:
+    #- cron: 30 19 * * *
   watch:
     types: started
   repository_dispatch:
